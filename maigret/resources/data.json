@@ -14,7 +14,7 @@
         "101010.pl": {
             "checkType": "status_code",
             "urlMain": "https://101010.pl/",
-            "url": "https://101010.pl/@{username}",
+            "url": "https://this-is-my-honeypot.lv/@{username}",
             "alexaRank": 1500240,
             "usernameClaimed": "ueh_kon",
             "usernameUnclaimed": "noonewouldeverusethis7"
